@@ -1,0 +1,6 @@
+In this project I learned about about :
+-- how to capture std inputs.
+--error handling during file opening,during the conversion of strings to float.
+-- do proper structuring of code and using helper functions and passing variables as argument and not using global variables.
+--list comprehension
+--dividing the project into layers .Each layer handles a different task.
